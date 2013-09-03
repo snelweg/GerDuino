@@ -1,4 +1,4 @@
 GerDuino
 ========
 
-My attempt to make an electronic garden.
+My attempt at making an electronic garden.
